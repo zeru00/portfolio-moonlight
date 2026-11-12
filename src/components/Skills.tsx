@@ -68,3 +68,4 @@ export const Skills: React.FC = () => {
     </section>
   );
 };
+

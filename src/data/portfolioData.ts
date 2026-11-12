@@ -175,3 +175,4 @@ export const portfolioData = {
     }
   ] as Project[]
 };
+

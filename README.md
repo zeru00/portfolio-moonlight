@@ -127,3 +127,4 @@ Di dalam array `projects`, cukup copy-paste template ini:
 │   ├── index.css                   # Custom styles & efek glowing
 │   └── main.tsx
 ```
+
