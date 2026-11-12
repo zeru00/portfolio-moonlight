@@ -99,7 +99,7 @@ Di dalam array `projects`, cukup copy-paste template ini:
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
 5. Klik **"Deploy"**.
-6. Dalam hitungan detik, website portofolio kamu akan online dan mendapatkan link publik (contoh: `https://my-portfolio-alex.vercel.app`)!
+6. Dalam hitungan detik, website portofolio kamu akan online dan mendapatkan link publik (contoh: `https://portfolio-moonlight-zeru00.vercel.app`)!
 7. Setiap kali kamu menambah proyek di `src/data/portfolioData.ts` dan melakukan `git push`, Vercel akan otomatis memperbarui website kamu secara instan!
 
 ---

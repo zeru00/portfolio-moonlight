@@ -19,7 +19,7 @@ export interface SkillCategory {
 
 export const portfolioData = {
   personal: {
-    name: "Alex Pratama", // Ganti dengan nama kamu
+    name: "Hannanni Ikhlasul Mardhiyallie",
     title: "Fullstack Developer & Creative Designer",
     tagline: "Crafting atmospheric digital experiences under the crimson moonlight.",
     location: "Jakarta, Indonesia",
@@ -37,11 +37,11 @@ export const portfolioData = {
       { label: "Client Kepuasan", value: "100%" },
     ],
     socials: {
-      github: "https://github.com",
+      github: "https://github.com/zeru00",
       linkedin: "https://linkedin.com",
       instagram: "https://instagram.com",
-      email: "mailto:alex.pratama@example.com",
-      emailDisplay: "alex.pratama@example.com",
+      email: "mailto:hannanni.ikhlasul@example.com",
+      emailDisplay: "hannanni.ikhlasul@example.com",
     }
   },
 
